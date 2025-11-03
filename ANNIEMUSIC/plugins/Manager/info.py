@@ -63,7 +63,7 @@ async def whois_handler(_, message: Message):
             f"➣ <b>ʙᴏᴛ:</b> {'ʏᴇs 🤖' if user.is_bot else 'ɴᴏ 👤'}\n"
             f"➣ <b>sᴄᴀᴍ ᴀᴄᴄᴏᴜɴᴛ:</b> {'ʏᴇs ⚠️' if getattr(user, 'is_scam', False) else 'ɴᴏ ☑️'}\n"
             f"➣ <b>ғᴀᴋᴇ ᴀᴄᴄᴏᴜɴᴛ:</b> {'ʏᴇs 🎭' if getattr(user, 'is_fake', False) else 'ɴᴏ ☑️'}\n"
-            f"➣ <b>ᴘʀᴏғɪʟᴇ ᴘɪᴄᴛᴜʀᴇ:</b> {'ɴᴏ 🌠' if user.photo else 'ɴᴏ 🥀'}\n"
+            f"➣ <b>ᴘʀᴏғɪʟᴇ ᴘɪᴄᴛᴜʀᴇ:</b> {'ɴᴏ 🌠' if user.photo else 'ʏᴇs 🥀'}\n"
             f"━━━━━━━━━━━━━━━\n"
         )
 
