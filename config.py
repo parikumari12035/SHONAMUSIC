@@ -40,13 +40,13 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 # ── Git / updates ──────────────────────────────────────────────────────────────
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/hbbb02219-hue/NITI")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/parikumari12035/SHONAMUSIC")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Master")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────────
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ganaasupport")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/ganaasupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Theshonabots")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+5hdg36Lda6QzM2M9")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = False
@@ -106,7 +106,7 @@ AYUV = [
 
 🫧 ɪғ ʏσᴜ ᴡᴧηᴛ ᴧηʏ ʜєʟᴘ, ᴛᴧᴘ ᴛʜє ʜєʟᴘ ʙᴜᴛᴛση ꜰσʀ ϻʏ ϻσᴅᴜʟєꜱ.
 
-🖤 ᴘσᴡєʀєᴅ ʙʏ ☯︎ ʀɪѕʜᴧηᴛ 🕊️"""
+🖤 ᴘσᴡєʀєᴅ ʙʏ ☯︎ sʜᴏɴᴀᴄᴏᴅᴇʀ💌 🕊️"""
 ]
 
 # ── Runtime structures ─────────────────────────────────────────────────────────
